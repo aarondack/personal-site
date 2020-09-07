@@ -19,7 +19,7 @@ export default function Home() {
           <GitHub />
         </a>
         <a
-          href="https://twitter.com/aarondack"
+          href="https://twitter.com/thatsdack"
           target="_blank"
           rel="noreferrer noopener"
         >
